@@ -6,4 +6,4 @@
 
 ![Ms.xf's github stats](https://github-readme-stats.vercel.app/api?username=xiaokong23357&show_icons=true)
 
-![Ms.xf's github language](https://github-readme-stats.vercel.app/api?username=xiaokong23357&show_icons=true&locale=en)
+![Ms.xf's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokong23357&layout=compact)
