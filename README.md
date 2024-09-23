@@ -1,5 +1,6 @@
-- 💻 Learning and use: Go, Vue, Python
-- 📫 Contact email: xiaokong23357@163.com
+- 💻 Learning and use: Java, Python
+- 📫 Contact email: virgil698@231s.net
 
-![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=Virgil692&show_icons=true)
-![Aaron's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgil692&layout=compact)
+![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=virgil698&show_icons=true)
+
+![Aaron's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=virgil698&layout=compact)
