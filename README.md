@@ -6,7 +6,3 @@
 - 📫 Contact email: virgil698@231s.net
 
 <img src="https://skillicons.dev/icons?i=java,py,cs,dotnet,css,js,ts,git,github&theme=light" />
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=virgil698&show_icons=true"></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgil698&layout=compact"></p>
